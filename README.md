@@ -1,16 +1,13 @@
-# flutter_bloc
+# 🌦️ Weather App (Flutter Template)
 
-A new Flutter project.
+This is a simple weather app built with Flutter and Dart, designed as a frontend template for self-practice purposes. The app includes three screens demonstrating navigation, UI updates, and basic screen transitions. It does not include backend or API integration, and is meant primarily for experimenting with Flutter layout and navigation.
 
-## Getting Started
+## To get started with this app
 
-This project is a starting point for a Flutter application.
+Open the project in your preferred IDE and ensure you complete the necessary setup steps like running, adding required assets or dependencies, and setting up a suitable device or emulator.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
+after then you'll see the prefered enviroments select according to your required enviroment you want to open it and then you are good to go.
